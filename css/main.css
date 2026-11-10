@@ -294,3 +294,4 @@ table.cmp td:first-child{font-weight:700;color:var(--choc)}
 main p,main li,main h1,main h2,main h3,.footer-grid a,.footer-grid p{overflow-wrap:anywhere}
 .pagehead.hero.has-hero:before{background:linear-gradient(100deg,rgba(35,22,14,.95) 0%,rgba(35,22,14,.9) 52%,rgba(35,22,14,.55) 100%)}
 @media(max-width:768px){.pagehead.hero.has-hero:before{background:linear-gradient(180deg,rgba(35,22,14,.9),rgba(35,22,14,.86))}}
+.sources ul{margin:0;padding-left:20px}.sources li{margin:8px 0;font-size:15px}.sources a{color:var(--turq-t)}
